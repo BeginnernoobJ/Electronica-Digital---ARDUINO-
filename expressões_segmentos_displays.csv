@@ -1,0 +1,127 @@
+Display,Segment,Expression
+D1,a,1
+D1,b,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D1,c,0
+D1,d,P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D1,e,1
+D1,f,1
+D1,g1,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D1,g2,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D1,h,0
+D1,i,0
+D1,j,0
+D1,k,0
+D1,l,0
+D1,m,0
+D2,a,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D2,b,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅
+D2,c,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D2,d,1
+D2,e,1
+D2,f,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D2,g1,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D2,g2,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D2,h,0
+D2,i,0
+D2,j,0
+D2,k,0
+D2,l,0
+D2,m,0
+D3,a,0
+D3,b,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D3,c,1
+D3,d,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D3,e,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D3,f,0
+D3,g1,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅
+D3,g2,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D3,h,0
+D3,i,0
+D3,j,0
+D3,k,0
+D3,l,0
+D3,m,0
+D4,a,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D4,b,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D4,c,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D4,d,1
+D4,e,1
+D4,f,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D4,g1,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D4,g2,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D4,h,0
+D4,i,0
+D4,j,0
+D4,k,0
+D4,l,0
+D4,m,0
+D5,a,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D5,b,0
+D5,c,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅
+D5,d,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D5,e,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D5,f,1
+D5,g1,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D5,g2,P̅R̅B̅A̅C̅ + P̅R̅BA̅C̅ + P̅RB̅A̅C̅ + P̅RBA̅C̅ + PR̅B̅A̅C̅ + PR̅BA̅C̅ + PRB̅A̅C̅ + PRBA̅C̅ + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D5,h,0
+D5,i,0
+D5,j,0
+D5,k,0
+D5,l,0
+D5,m,0
+D6,a,0
+D6,b,0
+D6,c,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D6,d,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D6,e,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D6,f,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D6,g1,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D6,g2,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D6,h,0
+D6,i,0
+D6,j,0
+D6,k,0
+D6,l,0
+D6,m,0
+D7,a,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D7,b,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D7,c,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D7,d,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D7,e,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D7,f,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D7,g1,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D7,g2,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C
+D7,h,0
+D7,i,0
+D7,j,0
+D7,k,0
+D7,l,0
+D7,m,0
+D8,a,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D8,b,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D8,c,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D8,d,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D8,e,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D8,f,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D8,g1,P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅
+D8,g2,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC̅ + P̅R̅BAC̅ + P̅RB̅AC̅ + P̅RBAC̅ + PR̅B̅AC̅ + PR̅BAC̅ + PRB̅AC̅ + PRBAC̅ + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D8,h,0
+D8,i,0
+D8,j,0
+D8,k,0
+D8,l,0
+D8,m,0
+D9,a,0
+D9,b,0
+D9,c,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D9,d,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D9,e,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D9,f,0
+D9,g1,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D9,g2,P̅R̅B̅A̅C + P̅R̅BA̅C + P̅RB̅A̅C + P̅RBA̅C + PR̅B̅A̅C + PR̅BA̅C + PRB̅A̅C + PRBA̅C + P̅R̅B̅AC + P̅R̅BAC + P̅RB̅AC + P̅RBAC + PR̅B̅AC + PR̅BAC + PRB̅AC + PRBAC
+D9,h,0
+D9,i,0
+D9,j,0
+D9,k,0
+D9,l,0
+D9,m,0
